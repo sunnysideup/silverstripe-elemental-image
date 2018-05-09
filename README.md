@@ -26,6 +26,15 @@ A block to add a single image to your page.
 
 Adds a block to display a single image on a page. Useful to break up long sections of text.
 
+## Screen Shots
+
+#### Front End sample of an Image Element
+![Front End sample of an Image Element](./readme-images/image-block-sample.jpg)
+
+#### CMS - Image Element Main Tab
+![CMS - Image Element Main Tab](./readme-images/image-block-cms.jpg)
+
+
 ## Getting more elements
 
 See [Elemental modules by Dynamic](https://github.com/dynamic/silverstripe-elemental-blocks#getting-more-elements)
