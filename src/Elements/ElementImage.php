@@ -35,7 +35,7 @@ class ElementImage extends BaseElement
      * @var array
      */
     private static $has_one = array(
-      'Image' => Image::class,
+        'Image' => Image::class,
     );
 
     /**
