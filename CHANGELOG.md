@@ -1,5 +1,11 @@
 # Change Log
 
+## [3.0.0-alpha1](https://github.com/dynamic/silverstripe-elemental-image/tree/3.0.0-alpha1) (2023-06-26)
+* CI initial workflow by @jsirish in https://github.com/dynamic/silverstripe-elemental-image/pull/7
+* REFACTOR Elemental 5 by @jsirish in https://github.com/dynamic/silverstripe-elemental-image/pull/6
+
+**Full Changelog**: https://github.com/dynamic/silverstripe-elemental-image/compare/2.0.1...3.0.0-alpha1
+
 ## [2.0.1](https://github.com/dynamic/silverstripe-elemental-image/tree/2.0.1) (2019-03-20)
 [Full Changelog](https://github.com/dynamic/silverstripe-elemental-image/compare/2.0.0...2.0.1)
 
